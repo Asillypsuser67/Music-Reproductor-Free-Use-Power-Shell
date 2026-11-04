@@ -1,0 +1,7 @@
+Para el codigo de abrir cosas (SOLO PRIVADO): Start-Process "C:\Users\Nombredeusuario\Cualquier carpeta\Cualquier album\Cualquier musica.cualquierformatodemusicacomomp3
+Public: Start-Process "$HOME\anyfolder\anyalbum\anymusic.anyformatofmusicovideo"
+Para convertir a exe tu codigo:
+Ejecita PowerShell como Administrador y copia este codigo:
+cd C:\Users\tuusuario\Downloads
+ps2exe ".\nombredescript.ps1" ".\nombredelejecutable.exe" -title "nombre de tu mod cualquier babosada" -product "tuusuario" -company "tunick"
+
