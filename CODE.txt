@@ -1,0 +1,7 @@
+for the code of open (JUST PRIVATE): Start-Process "C:\Users\Nameofuruser\anyfolder\anyalbum\anymusic.anyformatmusicovideo
+Public: Start-Process "$HOME\anyfolder\anyalbum\anymusic.anyformatofmusicovideo"
+to convert a exe ur mod:
+go to powershell admin and paste this code:
+cd C:\Users\uuser\Downloads
+ps2exe ".\MRFUPS.ps1" ".\MRFUPS.exe" -title "MRFUPS Public Edition" -product "MRFUPS v1.0" -company "Asillypsuser67"
+
